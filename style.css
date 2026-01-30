@@ -76,6 +76,17 @@ label{
   border-radius: 20px;
 }
 
+.cart-panel-hidden{
+  display: none;
+}
+
+.cart-item img{
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
 /* Bootstrap classes */
 .btn{
   background: var(--secondary-color);
